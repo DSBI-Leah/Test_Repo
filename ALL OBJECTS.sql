@@ -103,3 +103,5 @@ select * from tSchedule_Run
 -- update tSchedule_Run set run_status='DW_SUCCESS_NOTUSE'
 where RUN_OBJECT='booking' and RUN_SITE_ID='3' 
 and run_status='EAI_SUCCESS' -- and extract_end_date='20190101' 
+
+--test change by Leah 07/30/2021 03:24PM
